@@ -19,7 +19,7 @@ The "development" webpack build is deployed to github pages, so you can
 debug it freely even kotlin line-by-line, there's no obfuscation, and source maps
 should be visible under F12.
 
-Have fun at https://jakubgwozdz.github.com/pagerduty-statistics/
+Have fun at https://jakubgwozdz.github.io/pagerduty-statistics/
 
 ## Legend
 
